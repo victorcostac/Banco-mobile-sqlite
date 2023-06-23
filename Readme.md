@@ -1,10 +1,9 @@
-## Expo SQLite ActiveRecord
+# Expo SQLite ActiveRecord
 
-This project is an example of using expo sqlite with a (minimal) ActiveRecord pattern implementation.
+Esse projeto é um exemplo de como usar o expo sqlite (implementação simples).
 
-Check `App.js` for usage.
+Verifique `App.js` para entender o funcionamento.
 
 TODO:
-
 - translate Car.js model to EN-US.
 - move model logic to a base class.
